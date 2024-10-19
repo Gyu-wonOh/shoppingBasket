@@ -1,20 +1,20 @@
 <h1 align='left'>쇼핑몰 장바구니</h1>
-<h3 align='left'>수행기간</h3><br><br>
+<h3 align='left'>수행기간</h3>
 2024.07.31~2024.08.08
-<h3 align='left'>소개</h3><br><br>
+<h3 align='left'>소개</h3>
 -	기존 개발한 쇼핑몰 웹페이지를 파일구조를 보다 개선된 파일구조로 개선<br><br>
 -	웹페이지 기능 및 디자인 개선하는 유지보수 작업 진행<br><br>
-<h3 align='left'>목표</h3><br><br>
+<h3 align='left'>목표</h3>
 -	JSP로 개발한 쇼핑몰 웹페이지를 Spring legacy로 업그레이드<br><br>
 -	필요한 기술들을 적용하여 기술의 이해도 숙련도 향상<br><br>
-<h3 align='left'>프로젝트 상세내용</h3><br><br>
+<h3 align='left'>프로젝트 상세내용</h3>
 [Spring_장바구니.pptx](https://github.com/user-attachments/files/17444734/Spring_.pptx)
-<h3 align='left'>프로젝트 후기</h3><br><br>
--	첫 웹페이지 프로젝트의 미흡했던 부분을 보완하고자 하였고 기능적인 부분에서나 시각적인 부분에서나 많이 개선이 이루어졌습니다.<br><br>
+<h3 align='left'>프로젝트 후기</h3>
+-첫 웹페이지 프로젝트의 미흡했던 부분을 보완하고자 하였고 기능적인 부분에서나 시각적인 부분에서나 많이 개선이 이루어졌습니다.<br><br>
 
--	Spring legacy project를 STS에서MVC Model2를 사용하여 DI와 AOP를 이해하고 적용할 수 있었습니다.<br><br>
+-Spring legacy project를 STS에서MVC Model2를 사용하여 DI와 AOP를 이해하고 적용할 수 있었습니다.<br><br>
 
--	DB와 화면 출력 사이의 데이터의 흐름과 전달방식을 이해하고 적용할 수 있게 되었습니다.<br><br>
+-DB와 화면 출력 사이의 데이터의 흐름과 전달방식을 이해하고 적용할 수 있게 되었습니다.<br><br>
 
 -이미지 업로드 기술이 미흡하여 프로젝트 파일내 저장 후 경로를 DB에 저장하는 방식으로 구현하여 파일 업로드 기능이 미흡하였던 부분이 많이 아쉬웠습니다.<br><br>
 
